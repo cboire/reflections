@@ -1,0 +1,7 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+   -a .git directory is created with git metadata; to work with git.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+   -it doesn't contain all the files in either; it allows committing subsets
